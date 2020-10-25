@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alejandro Francolino",
+    "label": "Implementador",
+    "image": "",
+    "email": "Ale@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "http://ejemplo.ejemplo.com",
+    "summary": "Soy Alejandro Francolino, Nacido en Capital Federal, Argentina y trabajo en AFIP hace 18 meses",
+    "location": {
+      "address": "Calle 123",
+      "postalCode": "1752",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    }
+  },
+  "work": [
+    {
+      "name": "AFIP",
+      "location": "Buenos Aires",
+      "description": "Administracion Federal de Ingresos Publicos",
+      "position": "Implementador",
+      "url": "http://afip.gob.ar",
+      "startDate": "2019-12-01",
+      "endDate": "2020-12-01",
+      "summary": "Se realizan los sistemas aduaneros",
+      "highlights": [
+        "Implemento los sistemas aduaneros",
+        "Realizo seguimientos",
+        "Controlo Release"
+      ]
+    }
+  ],
+  
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
