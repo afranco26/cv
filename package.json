@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/afranco26/cv/issues"
   },
-  "homepage": "https://github.com/afranco26/cv#readme",
+  "homepage": "https://github.com/afranco26/cv",
   "dependencies": {
     "resume-cli": "^2.0.0"
   }
